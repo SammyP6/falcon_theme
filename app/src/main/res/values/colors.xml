@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (C) 2015 TJM SoftWorks, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<resources>
+
+
+    <!-- General colors -->
+
+    <!-- Main color of theme - affects top Toolbar and right side drawer background -->
+    <color name="pref_theme">#FFFFFF</color>
+
+    <color name="pref_theme_wallpaper_inbox">#FFFFFF</color>
+    <color name="pref_theme_wallpaper_thread">#FFFFFF</color>
+
+    <!-- Affects top Toolbar center text color-->
+    <color name="pref_theme_header_primary_text_color">#000000</color>
+    <!-- Affects auxiliary Toolbar items (left/right) color -->
+    <color name="pref_theme_header_secondary_text_color">#007AFF</color>
+
+    <!-- Text color for composed messages -->
+    <color name="pref_theme_edittext_text_color">#000000</color>
+
+    <!-- Contact Picture colors -->
+    <color name="pref_theme_contact_pic_color">#BDBEC2</color>
+
+    <!-- Night Mode value -->
+    <color name="pref_theme_night">#212121</color>
+    <color name="pref_theme_edittext_text_color_night">#FFFFFF</color>
+    <color name="pref_theme_header_primary_text_color_night">#FFFFFF</color>
+    <color name="pref_theme_header_secondary_text_color_night">#007AFF</color>
+    <color name="pref_theme_wallpaper_inbox_night">#212121</color>
+    <color name="pref_theme_wallpaper_thread_night">#212121</color>
+
+
+
+    <!-- Inbox (left pane) colors -->
+
+    <!-- Text color of inbox names -->
+    <color name="pref_theme_inbox_primary_color">#000000</color>
+    <!-- Text color of inbox message previews and date -->
+    <color name="pref_theme_inbox_secondary_color">#222222</color>
+
+
+    <!-- Night Mode values -->
+    <color name="pref_theme_inbox_primary_color_night">#FFFFFF</color>
+    <color name="pref_theme_inbox_secondary_color_night">#DBDDDE</color>
+
+
+
+
+
+    <!-- Conversation (right pane) colors -->
+
+    <!-- Bottom panel of conversation outer background -->
+    <color name="pref_theme_bottom_panel_outer_color">#D8F1F1F1</color>
+    <!-- Bottom panel edit text background -->
+    <color name="pref_theme_bottom_panel_inner_color">#CCFFFFFF</color>
+
+    <!-- Floating Action Button color -->
+    <color name="pref_theme_fab_color">#34AADC</color>
+
+    <!-- Text color of attach button -->
+    <color name="pref_theme_attach_text_color">#545454</color>
+    <!-- Text color of send button -->
+    <color name="pref_theme_send_text_color">#007AFF</color>
+
+
+    <!-- Text color of sent messages-->
+    <color name="pref_theme_sent_primary_text_color">#FFFFFF</color>
+    <!-- Text color of date text for sent messages -->
+    <color name="pref_theme_sent_secondary_text_color">#D8000000</color>
+
+    <!-- Text color of received messages -->
+    <color name="pref_theme_received_primary_text_color">#000000</color>
+    <!-- Text color of date text for received messages -->
+    <color name="pref_theme_received_secondary_text_color">#D8000000</color>
+
+
+    <!-- Night Mode values -->
+    <color name="pref_theme_bottom_panel_outer_color_night">#D8222222</color>
+    <color name="pref_theme_bottom_panel_inner_color_night">#D82F2F2F</color>
+    <color name="pref_theme_attach_text_color_night">#EEEEEE</color>
+    <color name="pref_theme_sent_secondary_text_color_night">#D8FFFFFF</color>
+    <color name="pref_theme_received_secondary_text_color_night">#D8FFFFFF</color>
+
+
+    <!-- End customizable theme values -->
+
+
+</resources>
