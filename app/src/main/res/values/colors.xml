@@ -21,21 +21,21 @@ limitations under the License.
     <!-- General colors -->
 
     <!-- Main color of theme - affects top Toolbar and right side drawer background -->
-    <color name="pref_theme">#FFFFFF</color>
+    <color name="pref_theme">@color/blue</color>
 
-    <color name="pref_theme_wallpaper_inbox">#FFFFFF</color>
-    <color name="pref_theme_wallpaper_thread">#FFFFFF</color>
+    <color name="pref_theme_wallpaper_inbox">@color/dgreen</color>
+    <color name="pref_theme_wallpaper_thread">@color/dgreen</color>
 
     <!-- Affects top Toolbar center text color-->
-    <color name="pref_theme_header_primary_text_color">#000000</color>
+    <color name="pref_theme_header_primary_text_color">@color/yellow</color>
     <!-- Affects auxiliary Toolbar items (left/right) color -->
-    <color name="pref_theme_header_secondary_text_color">#007AFF</color>
+    <color name="pref_theme_header_secondary_text_color">@color/yellow</color>
 
     <!-- Text color for composed messages -->
-    <color name="pref_theme_edittext_text_color">#000000</color>
+    <color name="pref_theme_edittext_text_color">@color/black</color>
 
     <!-- Contact Picture colors -->
-    <color name="pref_theme_contact_pic_color">#BDBEC2</color>
+    <color name="pref_theme_contact_pic_color">@color/blue</color>
 
     <!-- Night Mode value -->
     <color name="pref_theme_night">#212121</color>
@@ -50,9 +50,9 @@ limitations under the License.
     <!-- Inbox (left pane) colors -->
 
     <!-- Text color of inbox names -->
-    <color name="pref_theme_inbox_primary_color">#000000</color>
+    <color name="pref_theme_inbox_primary_color">@color/yellow</color>
     <!-- Text color of inbox message previews and date -->
-    <color name="pref_theme_inbox_secondary_color">#222222</color>
+    <color name="pref_theme_inbox_secondary_color">@color/yellow</color>
 
 
     <!-- Night Mode values -->
@@ -66,28 +66,28 @@ limitations under the License.
     <!-- Conversation (right pane) colors -->
 
     <!-- Bottom panel of conversation outer background -->
-    <color name="pref_theme_bottom_panel_outer_color">#D8F1F1F1</color>
+    <color name="pref_theme_bottom_panel_outer_color">@color/blue</color>
     <!-- Bottom panel edit text background -->
-    <color name="pref_theme_bottom_panel_inner_color">#CCFFFFFF</color>
+    <color name="pref_theme_bottom_panel_inner_color">@color/dgreen</color>
 
     <!-- Floating Action Button color -->
-    <color name="pref_theme_fab_color">#34AADC</color>
+    <color name="pref_theme_fab_color">@color/yellow</color>
 
     <!-- Text color of attach button -->
-    <color name="pref_theme_attach_text_color">#545454</color>
+    <color name="pref_theme_attach_text_color">@color/yellow</color>
     <!-- Text color of send button -->
-    <color name="pref_theme_send_text_color">#007AFF</color>
+    <color name="pref_theme_send_text_color">@color/black</color>
 
 
     <!-- Text color of sent messages-->
-    <color name="pref_theme_sent_primary_text_color">#FFFFFF</color>
+    <color name="pref_theme_sent_primary_text_color">@color/yellow</color>
     <!-- Text color of date text for sent messages -->
-    <color name="pref_theme_sent_secondary_text_color">#D8000000</color>
+    <color name="pref_theme_sent_secondary_text_color">@color/yellow</color>
 
     <!-- Text color of received messages -->
-    <color name="pref_theme_received_primary_text_color">#000000</color>
+    <color name="pref_theme_received_primary_text_color">@color/yellow</color>
     <!-- Text color of date text for received messages -->
-    <color name="pref_theme_received_secondary_text_color">#D8000000</color>
+    <color name="pref_theme_received_secondary_text_color">@color/yellow</color>
 
 
     <!-- Night Mode values -->

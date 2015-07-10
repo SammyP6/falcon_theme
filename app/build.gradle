@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "tjm.com.falcon_theme_suaveblue"
+        applicationId "com.sp6.sammyp6.falconsmstheme_green"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1

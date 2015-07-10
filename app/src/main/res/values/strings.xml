@@ -18,6 +18,14 @@ limitations under the License.
 <resources>
 
     <!-- do not change name="app_name", modify Suave Blue Theme -->
-    <string name="app_name">Suave Blue Theme</string>
+    <string name="app_name">Falcon SMS Green Theme</string>
+
+    <color name="yellow">#FFD800</color>
+    <color name="green">#007f0e</color>
+    <color name="dgreen">#267F00</color>
+    <color name="blue">#0026FF</color>
+    <color name="dblue">#00137F</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
 
 </resources>
