@@ -28,4 +28,7 @@ limitations under the License.
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
 
+    <color name="ngreen">#0F3300</color>
+    <color name="nyellow">#B29400</color>
+
 </resources>

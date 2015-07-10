@@ -38,12 +38,12 @@ limitations under the License.
     <color name="pref_theme_contact_pic_color">@color/blue</color>
 
     <!-- Night Mode value -->
-    <color name="pref_theme_night">#212121</color>
-    <color name="pref_theme_edittext_text_color_night">#FFFFFF</color>
-    <color name="pref_theme_header_primary_text_color_night">#FFFFFF</color>
-    <color name="pref_theme_header_secondary_text_color_night">#007AFF</color>
-    <color name="pref_theme_wallpaper_inbox_night">#212121</color>
-    <color name="pref_theme_wallpaper_thread_night">#212121</color>
+    <color name="pref_theme_night">@color/dblue</color>
+    <color name="pref_theme_edittext_text_color_night">@color/nyellow</color>
+    <color name="pref_theme_header_primary_text_color_night">@color/nyellow</color>
+    <color name="pref_theme_header_secondary_text_color_night">@color/nyellow</color>
+    <color name="pref_theme_wallpaper_inbox_night">@color/ngreen</color>
+    <color name="pref_theme_wallpaper_thread_night">@color/ngreen</color>
 
 
 
@@ -56,8 +56,8 @@ limitations under the License.
 
 
     <!-- Night Mode values -->
-    <color name="pref_theme_inbox_primary_color_night">#FFFFFF</color>
-    <color name="pref_theme_inbox_secondary_color_night">#DBDDDE</color>
+    <color name="pref_theme_inbox_primary_color_night">@color/nyellow</color>
+    <color name="pref_theme_inbox_secondary_color_night">@color/nyellow</color>
 
 
 
@@ -91,11 +91,11 @@ limitations under the License.
 
 
     <!-- Night Mode values -->
-    <color name="pref_theme_bottom_panel_outer_color_night">#D8222222</color>
-    <color name="pref_theme_bottom_panel_inner_color_night">#D82F2F2F</color>
-    <color name="pref_theme_attach_text_color_night">#EEEEEE</color>
-    <color name="pref_theme_sent_secondary_text_color_night">#D8FFFFFF</color>
-    <color name="pref_theme_received_secondary_text_color_night">#D8FFFFFF</color>
+    <color name="pref_theme_bottom_panel_outer_color_night">@color/dblue</color>
+    <color name="pref_theme_bottom_panel_inner_color_night">@color/ngreen</color>
+    <color name="pref_theme_attach_text_color_night">@color/nyellow</color>
+    <color name="pref_theme_sent_secondary_text_color_night">@color/nyellow</color>
+    <color name="pref_theme_received_secondary_text_color_night">@color/nyellow</color>
 
 
     <!-- End customizable theme values -->
